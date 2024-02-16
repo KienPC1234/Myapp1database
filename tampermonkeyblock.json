@@ -1,5 +1,5 @@
 {
-  "divclass" : [".we-nopop"],
+  "divclass" : [".we-nopop",".vl-header-adx"],
   "onclick" : ["Tắt QC"],
   "spancontent" : ["Tắt quảng cáo "]
 }
