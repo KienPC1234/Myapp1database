@@ -1,1 +1,4 @@
-
+{
+  "divclass" : [".we-nopop"],
+  "onclick" : ["Tắt QC"]
+}
