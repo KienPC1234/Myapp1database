@@ -1,4 +1,5 @@
 {
   "divclass" : [".we-nopop"],
   "onclick" : ["Tắt QC"]
+  "spancontent" : ["Tắt quảng cáo "]
 }
